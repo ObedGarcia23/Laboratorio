@@ -1,0 +1,19 @@
+.bgcolorgreen{
+    background-color: #66C62D !important;
+
+}
+
+.principal{
+    height: 80vh;
+    background-color: #C6CCE4;
+    
+}
+
+#sidebar{
+    background-color: #66C62D;
+}
+
+#navbarNav{
+    display: none;
+    
+}
